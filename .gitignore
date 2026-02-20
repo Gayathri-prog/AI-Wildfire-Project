@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.h5
+*.pth
+*.pt
+*.pkl
+*.dll
+*.pyd
+*.zip
+*.exe
+.env
